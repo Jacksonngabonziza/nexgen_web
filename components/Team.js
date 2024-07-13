@@ -3,7 +3,7 @@ import Image from 'next/image';
 import { FaLinkedin, FaTwitter } from 'react-icons/fa';
 import team01 from "../public/assets/Danr.png";
 import team02 from "../public/assets/jackson.png";
-import team03 from "../public/assets/Dank.png";
+import team03 from "../public/assets/md.jpg";
 
 const teamMembers = [
     {
